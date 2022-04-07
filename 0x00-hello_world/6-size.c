@@ -1,8 +1,5 @@
 #include <stdio.h>
-/**
- *desc
- *desc
- */
+/*descdesc*/
 int main(void)
 {
 	printf("Size of a char: %i byte(s)\n", sizeof(char));
