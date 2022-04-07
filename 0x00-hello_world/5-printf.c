@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- *document
+ *main - prints twext
+ *Return: 0 if true
  */
 int main(void)
 {
