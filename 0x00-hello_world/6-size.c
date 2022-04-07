@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main- sizes
- * return: 0 if ggod
+ * main - sizes
+ * Return: 0 if ggod
  */
 int main(void)
 {
