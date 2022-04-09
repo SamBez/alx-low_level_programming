@@ -3,7 +3,7 @@
 #include <stdio.h>
 /**
  * main - mainf
- * return - 0 type fo
+ * Return: 0 type fo
  */
 int main(void)
 {
