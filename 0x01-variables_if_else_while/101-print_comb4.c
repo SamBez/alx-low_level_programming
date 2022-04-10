@@ -16,7 +16,7 @@ int main(void)
 		while (y < 9)
 		{
 			z = y + 1;
-			while(z <= 9)
+			while (z <= 9)
 			{
 				putchar(x + '0');
 				putchar(y + '0');
@@ -29,7 +29,7 @@ int main(void)
 				putchar(',');
 				putchar(' ');
 			}
-			y++;   
+			y++; 
 		}
 	}
 	putchar('\n');
