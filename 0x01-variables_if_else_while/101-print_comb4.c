@@ -7,7 +7,7 @@
 int main(void)
 {
 	int x;
-	int y;  
+	int y;
 	int z;
 
 	for (x = 0; x < 9; x++)
@@ -29,7 +29,7 @@ int main(void)
 				putchar(',');
 				putchar(' ');
 			}
-			y++; 
+			y++;
 		}
 	}
 	putchar('\n');
