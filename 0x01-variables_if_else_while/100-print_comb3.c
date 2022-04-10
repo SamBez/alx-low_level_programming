@@ -12,7 +12,7 @@ int main(void)
 	for (x = 0; x < 9; x++)
 	{
 		y = x + 1;
-		while(y <= 9)
+		while (y <= 9)
 		{
 			putchar(x + '0');
 			putchar(y + '0');
