@@ -16,6 +16,7 @@ int main(void)
 		{
 			putchar(x + '0');
 			putchar(y + '0');
+			y++;
 			if (x == 8)
 			{
 				continue;
