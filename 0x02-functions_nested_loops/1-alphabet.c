@@ -1,12 +1,15 @@
 #include "main.h"
-#include <stdlib.h>
-#include <stdio.h>
 /**
  * main - mianf
  * Return: 0 for all
  */
-int main(void)
+static inline void print_alphabet(void)
 {
-    print_alphabet();
-	return (0);
+    char ch;
+
+	for (ch = 'a'; ch <= 'z'; ch++)
+	{
+		_putchar(ch);
+	}
+    _putchar('\n');
 }
