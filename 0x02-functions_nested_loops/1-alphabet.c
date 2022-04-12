@@ -3,7 +3,7 @@
  * main - mianf
  * Return: 0 for all
  */
-static inline void print_alphabet(void)
+void print_alphabet(void)
 {
     char ch;
 
