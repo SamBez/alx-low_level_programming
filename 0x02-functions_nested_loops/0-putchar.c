@@ -1,3 +1,4 @@
+#include "myheader.h"
 #include <stdlib.h>
 #include <stdio.h>
 /**
@@ -6,6 +7,6 @@
  */
 int main(void)
 {
-    printf("%s", "_putchar");
+    _putchar();
 	return (0);
 }
