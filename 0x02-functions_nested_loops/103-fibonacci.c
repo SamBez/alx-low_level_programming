@@ -1,3 +1,8 @@
+#include <stdio.h>
+/**
+ * main - main for all
+ * Return: for all
+ */
 int main(void)
 {
 	unsigned long fib1 = 0, fib2 = 1, fibsum;
