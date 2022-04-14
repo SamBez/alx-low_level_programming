@@ -1,8 +1,3 @@
-/*
- * File: 8-24_hours.c
- * Auth: Brennan D Baraban
- */
-
 #include "main.h"
 #include <stdio.h>
 /**
@@ -25,5 +20,5 @@ void jack_bauer(void)
 			_putchar('\n');
 		}
 	}
-    putchar('\n');
+	putchar('\n');
 }
