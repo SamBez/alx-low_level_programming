@@ -7,7 +7,7 @@
  *
  * Return: A pointer to the destination string @dest.
  */
-char *strcat(char *dest, const char *src)
+char *_strcat(char *dest, const char *src)
 {
 	int dlen = 0, i;
 
