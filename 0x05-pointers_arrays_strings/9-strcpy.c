@@ -13,8 +13,12 @@ char *_strcpy(char *dest, const char *src)
 
 	while (src[index])
 	{
-		dest[index] = src[index];
-		index++;
+        if (dest[index] == src[index])
+        {
+		    dest[index] = src[index];
+		    index++;
+        }
+
 	}
 
 	return (dest);
